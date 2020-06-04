@@ -12,4 +12,5 @@ Some of our infrastructure was created manually in the console, the following is
 1. Cloud Scheduler that points to a PubSub Topic
 2. PubSub Topic that triggers a Cloud Function
 3. Cloud Function (see `ingest.py`) that in a batch fashion populates Big Query with the data
+4. Big Query data set for the tables with our ingested Climate Data
 4. AI Notebook (see `1980_WB_Climate_Data`) with code to illustrate our ingested data
