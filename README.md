@@ -1,6 +1,8 @@
 # E2E Analytics Pipeline
 Created on the 3rd June 2020 during an AL Hack Day.
 
+Data Source used: [The World Bank's Climate Data API](https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api).
+
 Here we create and end-to-end basic analytics pipeline on GCP. The image below demonstrates our infrastructure used.
 
 ![alt text](Hack_Day_E2E.png "Basic Analytics Pipeline")
